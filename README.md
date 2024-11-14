@@ -1,5 +1,5 @@
-## ENTER YOUR NAME: Sanjay G
-## ENTER YOUR REGISTER NO. 212222230131
+## NAME: Sanjay G
+## REGISTER NO. 212222230131
 ## EX. NO.3
 ## DATE:
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
